@@ -4,9 +4,9 @@
     "website":"",
     "twitter":"",
     "discord":"",    
-    "rpc": "https://rpc.atlantic-2.seinetwork.io/",
-    "network": "atlantic-2",
-    "collection_address":"sei1yjwhwwplslcs6qm8f97yycpkfmcsm484va5wl4hh8fafxnsls37sslktyz", 
+    "rpc": "https://rpc.sei-apis.com/",
+    "network": "pacific-1",
+    "collection_address":"sei1u86wxnr8cdaydvxs9ftv38lx0g05gyx9els7v5dptzfc9rkum2ys9r9qzz", 
     "nft_name_type": "default",
     "groups":[
         {
