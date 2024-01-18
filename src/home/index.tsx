@@ -333,14 +333,15 @@ const Home = () => {
             }
         }
 
-
-        if (currentPhase.unit_price != 0) {
+        if (new BigNumber(currentPhase.unit_price).isGreaterThan(0)) {
             instruction.funds = [{
                 denom: 'usei',
                 amount: new BigNumber(currentPhase.unit_price).plus(new BigNumber(lighthouseConfig.fee)).toString()
             }]
         }
 
+
+        
 
         let instructions = []
 
