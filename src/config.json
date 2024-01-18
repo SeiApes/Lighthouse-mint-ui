@@ -3,10 +3,10 @@
     "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, urna eu aliquet ultricies, urna elit aliquam nunc, quis aliquet nunc nisl quis nisl.",
     "website":"",
     "twitter":"",
-    "discord":"",
-    "rpc":"",
-    "network":"atlantic-2", 
-    "collection_address":"", 
+    "discord":"",    
+    "rpc": "https://rpc.atlantic-2.seinetwork.io/",
+    "network": "atlantic-2",
+    "collection_address":"sei1yjwhwwplslcs6qm8f97yycpkfmcsm484va5wl4hh8fafxnsls37sslktyz", 
     "nft_name_type": "default",
     "groups":[
         {
