@@ -10,12 +10,6 @@
     "nft_name_type": "default",
     "groups":[
         {
-            "name":"team",
-            "allowlist":[
-                "sei1chfwapnusnyjafp9ame2mmq0g9nkfwhn28rwg7"
-            ] 
-        },
-        {
             "name":"og",
             "allowlist":[
                 "sei1xhwhs4cduphlhh2k05dex77mksjld8gx2y4yyk",
